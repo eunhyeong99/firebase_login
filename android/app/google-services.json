@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038728610",
+    "project_id": "login-chatting-app",
+    "storage_bucket": "login-chatting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038728610:android:ef318877a8adae5fb706fb",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038728610-s72rpqcf7750jlqrnu4njcpb780864ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt6wlofgh4MnUT3-nx1yltJHTGsG3IijY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038728610-s72rpqcf7750jlqrnu4njcpb780864ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
